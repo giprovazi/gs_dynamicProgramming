@@ -1,0 +1,29 @@
+RELATORIO - PROFISSOES DO FUTURO
+
+Profissao                           | Demanda    | Categoria
+-----------------------------------------------------------------
+Engenheiro de IA                    | 95         | Tecnologia
+Cientista de Dados                  | 94         | Tecnologia
+Designer de Experiência do Usuário (UX) | 92         | Design
+Especialista em Cibersegurança      | 91         | Segurança
+Especialista em Segurança de Infraestruturas Críticas | 90         | Segurança
+Engenheiro Biomédico                | 90         | Saúde
+Desenvolvedor de Realidade Virtual  | 90         | Tecnologia
+Desenvolvedor de Assistentes Virtuais | 89         | Tecnologia
+Engenheiro de Robótica              | 89         | Engenharia
+Analista de Dados Ambientais        | 88         | Sustentabilidade
+Consultor de Transformação Digital  | 88         | Gestão
+Gestor de Energia Renovável         | 88         | Energia
+Engenheiro de Mobilidade Elétrica   | 87         | Engenharia
+Especialista em Computação Quântica | 87         | Tecnologia
+Engenheiro de Materiais Sustentáveis | 86         | Engenharia
+Desenvolvedor de Blockchain         | 86         | Tecnologia
+Especialista em Ciberpsicologia     | 85         | Psicologia
+Analista de Sustentabilidade        | 85         | Sustentabilidade
+Técnico em Manutenção de Drones     | 84         | Tecnologia
+Analista de Ética em IA             | 84         | Tecnologia
+Consultor de Inclusão Digital       | 83         | Educação
+Gestor de Cidades Inteligentes      | 83         | Urbanismo
+Especialista em Energias Oceânicas  | 82         | Energia
+Agricultor Urbano Tecnológico       | 81         | Sustentabilidade
+Gestor de Resíduos Tecnológicos     | 80         | Sustentabilidade
